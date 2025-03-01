@@ -1,0 +1,11 @@
+name: MufasaDen
+main: world.bentobox.mufasaden.MufasaDenBentoBoxAddon
+version: ${version}${build.number}
+icon: DIAMOND_SWORD
+api-version: 1.15.4
+
+authors: desolestice
+
+softdepend: AcidIsland, BSkyBlock, CaveBlock, SkyGrid, AOneBlock
+
+permissions: []

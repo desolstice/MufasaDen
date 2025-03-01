@@ -1,0 +1,8 @@
+name: BentoBox-MufasaDen
+main: world.bentobox.mufasaden.MufasaDenBentoBoxPladdon
+version: ${project.version}${build.number}
+api-version: "1.16"
+
+authors: [desolestice]
+contributors: ["desolestice"]
+description: ${project.description}

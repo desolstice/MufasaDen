@@ -1,0 +1,12 @@
+protection:
+  flags:
+    MUFASA_DEN_PLAYER_HOSTILE_MOB_SPAWN_PREVENTION:
+      description: |-
+        &f Allow hostile
+        &f mob spawning
+      name: "Hostile mob spawning"
+    MUFASA_DEN_PLAYER_PASSIVE_MOB_SPAWN_PREVENTION:
+      description: |-
+        &f Allow passive
+        &f mob spawning
+      name: "Passive mob spawning"
